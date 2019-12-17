@@ -16,3 +16,12 @@ git clone git@github.com:orlando-pereira/tf_aws_peering.git
 ```bash
 cd tf_aws_peering
 ```
+
+- terraform init && terraform apply 
+
+```terraform
+var.decision
+  do you will permit the peering? true or false
+
+  Enter a value:
+```
